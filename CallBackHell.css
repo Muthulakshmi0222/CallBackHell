@@ -1,0 +1,15 @@
+.print{
+   text-align: center;
+   color: teal;
+   font-family: 'Festive', cursive;
+   background-image: linear-gradient(to right top, #d16ba5, #b95c97, #a14e88, #8a407a, #74336b, #672c61, #5a2458, #4d1d4e, #451a47, #3e1640, #37133a, #301033);
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 500px;
+   padding-top: 300px;
+   font-size: 50px;
+}
+body{
+    border: none;
+}
+
